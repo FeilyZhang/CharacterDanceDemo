@@ -1,0 +1,1 @@
+for /l %%I in (0,1,273) do start /d "C:\Program Files (x86)\Notepad++" notepad++.exe "E:\txt\%%I.md" 
